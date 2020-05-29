@@ -10,4 +10,4 @@
 
 #### 数据库
 
-- [Yearning](https://github.com/cookieY/Yearning) SQL审核平台
+- [Yearning](https://github.com/cookieY/Yearning) SQL 审核平台
