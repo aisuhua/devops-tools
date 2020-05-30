@@ -14,4 +14,4 @@
 
 #### 流程管理
 
-- [iTop](https://github.com/Combodo/iTop) IT Service Management tool
+- [iTop](https://github.com/Combodo/iTop) IT 服务管理工具
