@@ -15,3 +15,7 @@
 #### 流程管理
 
 - [iTop](https://github.com/Combodo/iTop) IT 服务管理工具
+
+#### 消息队列
+
+- [Kafka Manager](https://github.com/yahoo/CMAK) Kafka 集群管理工具
